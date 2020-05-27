@@ -10,5 +10,11 @@ https://angular-5rkimq.stackblitz.io
 # Prerequisites
 Angular material theme should be defined for the application otherwise CSS will not work properly
 
+# Usage
+npm i multi-select-search-angular2
+
+Example: https://angular-5rkimq.stackblitz.io
+npm: https://www.npmjs.com/package/multi-select-search-angular2
+
 # Further info
 Please create an issue on the GIThub project.
